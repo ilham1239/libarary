@@ -262,7 +262,7 @@ home_template = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Books | BookVerse</title>
+    <title>My Books | BookAUI</title>
     <style>
         :root {
             --primary: #7F5AF0;
